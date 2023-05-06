@@ -1,2 +1,2 @@
 # code-streak
-hi everyone, i will be uploading my regular code streak here.
+Hi everyone, i will be uploading my 30 days  code streak here of java and data structures.
